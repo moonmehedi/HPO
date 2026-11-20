@@ -1,0 +1,11 @@
+run_id,learning_rate,batch_size,hidden_units,optimizer
+1,0.001,16,8,SGD
+2,0.003,16,8,SGD
+3,0.01,16,8,SGD
+4,0.03,16,8,SGD
+5,0.1,16,8,SGD
+6,0.01,8,8,SGD
+7,0.01,32,8,SGD
+8,0.01,16,4,SGD
+9,0.01,16,16,SGD
+10,0.03,32,16,SGD
